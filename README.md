@@ -15,7 +15,7 @@ GDPR-logs.bat example-log-file.log
 
 The Zip file (GDPR-logs/GDPR-logs/GDPR-logs.zip) is all you need to download as it contains the jar file and the .sh and .bat files.
 
-The script will create a new, redacted file with the same name, prepended with REDACTED like this :-
+The script will create a new, redacted file with the same name, appended with REDACTED like this :-
 
 example-log-file.logREDACTED
 
